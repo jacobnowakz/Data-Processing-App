@@ -1,0 +1,5 @@
+C:\Users\ItsCu\Desktop\AMD\Data-Processessing-and-Analysis\x64\Debug\Data-Processessing-and-Analysis.exe
+C:\Users\ItsCu\Desktop\AMD\Data-Processessing-and-Analysis\x64\Debug\Data-Processessing-and-Analysis.vcxproj.CopyComplete
+C:\Users\ItsCu\Desktop\AMD\Data-Processessing-and-Analysis\x64\Debug\gtest.pdb
+C:\Users\ItsCu\Desktop\AMD\Data-Processessing-and-Analysis\x64\Debug\gtest_main.pdb
+C:\Users\ItsCu\Desktop\AMD-Data-Proccessing-Program\Data-Processing-Program\Data-Processessing-and-Analysis\x64\Debug\Data-Processessing-and-Analysis.exe
